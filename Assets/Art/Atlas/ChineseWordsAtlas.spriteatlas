@@ -77,19 +77,19 @@ SpriteAtlas:
   - {fileID: 21300000, guid: e9b5ae0fcd123194691672c470c66f4c, type: 3}
   - {fileID: 21300000, guid: 76b7f93f593f7014ab225bed15af2058, type: 3}
   m_PackedSpriteNamesToIndex:
-  - HuanShuXiang_Word
-  - GuangDie_Word
-  - YueDuJiaoLuo_Word
-  - BuGaoBan_Word
-  - DuoMeiTiJiaoLuo_Word
-  - YingWenBaoZhi_Word
-  - ZiZhuJieShuZhan_Word
-  - ManHua_Word
-  - ErTongZaZhi_Word
-  - ErTongQu_Word
-  - TongHuaGuShi_Word
-  - DianZiShu_Word
-  - HuiBen_Word
-  - HuaWenBaoZhi_Word
+  - la_bi_Word
+  - ban_yuan_xing_Word
+  - ding_shu_ji_Word
+  - zhi_xian_Word
+  - zheng_fang_xing_Word
+  - da_kong_ji_Word
+  - tou_ming_jiao_dai_Word
+  - jiao_shui_Word
+  - yuan_xing_Word
+  - chang_fang_xing_Word
+  - jian_dao_Word
+  - san_jiao_xing_Word
+  - shui_cai_bi_Word
+  - shui_cai_Word
   m_Tag: ChineseWordsAtlas
   m_IsVariant: 0
