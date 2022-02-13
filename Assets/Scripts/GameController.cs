@@ -104,7 +104,7 @@ public class GameController : MonoBehaviour
     /// <summary>
     /// load from resources
     /// </summary>
-    private List<GameItem> FoodItemTable = new List<GameItem>();
+    private List<GameItem> DragItemsTable = new List<GameItem>();
 
     private List<GameObject> RPanelUIElements = new List<GameObject>();
     private List<GameItemUI> LPanelUIElements = new List<GameItemUI>();
@@ -179,13 +179,13 @@ public class GameController : MonoBehaviour
         DropZoneRef.OnRecieveGameItem += ValidateDropZoneGameItem;
 
         // load all the game items
-        FoodItemTable.AddRange(Resources.LoadAll<GameItem>("GameItems"));
+        DragItemsTable.AddRange(Resources.LoadAll<GameItem>("GameItems"));
 
         // cache a dynamic table for cross check
         //foodItemDynamicTable = FoodItemTable;
 
         // set up right grid table (show picture)
-        foreach (var item in FoodItemTable)
+        foreach (var item in DragItemsTable)
         {
             var rightPanelElement = Instantiate(GameItemFoodDisplayUIPrefab, RightPanelRoot.transform);
             RPanelUIElements.Add(rightPanelElement);
@@ -317,11 +317,11 @@ public class GameController : MonoBehaviour
         // prepare the dynamic table again
         //foodItemDynamicTable = FoodItemTable;
 
-        int maxElements = Mathf.Min(FoodItemTable.Count, currLevel.CrossCheckCountMax);
-        int minElements = Mathf.Min(currLevel.CrossCheckCountMin, FoodItemTable.Count);
+        int maxElements = Mathf.Min(DragItemsTable.Count, currLevel.CrossCheckCountMax);
+        int minElements = Mathf.Min(currLevel.CrossCheckCountMin, DragItemsTable.Count);
 
         List<GameItem> dynamicTable = new List<GameItem>();
-        dynamicTable.AddRange(FoodItemTable);
+        dynamicTable.AddRange(DragItemsTable);
 
         // determine how many to cross check this level, populate foodItemCrossCheckTable
         int currLevelCrossCheckCount = UnityEngine.Random.Range(minElements, maxElements + 1);
