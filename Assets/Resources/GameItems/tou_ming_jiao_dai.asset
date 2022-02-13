@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: tou_ming_jiao_dai
   m_EditorClassIdentifier: 
   ItemTypeRef: 0
-  DisplaySprite: {fileID: 21300000, guid: e8a1f54c13f4f0a44ab81af7a754f059, type: 3}
+  DisplaySprite: {fileID: 21300000, guid: 0e9d94e81c6a44c48a217bc4ee95d395, type: 3}
   DisplayChineseText: {fileID: 21300000, guid: 80f4c366bb0390a43b2421f50b530754, type: 3}
   ReadAloudClip: {fileID: 8300000, guid: 5ce3a415579a45246aa370db092a9586, type: 3}
   LoadFlag: 0

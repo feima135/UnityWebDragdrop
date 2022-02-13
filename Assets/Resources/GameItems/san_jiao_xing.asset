@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: san_jiao_xing
   m_EditorClassIdentifier: 
   ItemTypeRef: 1
-  DisplaySprite: {fileID: 21300000, guid: f69868395fd22bb42bdde395be0a8462, type: 3}
+  DisplaySprite: {fileID: 21300000, guid: 2181e647b0fcfbf4b84a194a8dba07c3, type: 3}
   DisplayChineseText: {fileID: 21300000, guid: 921dcd9ec761b2e43969c2dec45294c4, type: 3}
   ReadAloudClip: {fileID: 8300000, guid: 81e63af09d6dbfc4da5745a82e7ac135, type: 3}
   LoadFlag: 0

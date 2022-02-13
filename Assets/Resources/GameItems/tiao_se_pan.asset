@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: tiao_se_pan
   m_EditorClassIdentifier: 
   ItemTypeRef: 0
-  DisplaySprite: {fileID: 21300000, guid: 71be3123a0737a149b270e43249b2003, type: 3}
+  DisplaySprite: {fileID: 21300000, guid: b4f73ff1289989244b8977e83793328a, type: 3}
   DisplayChineseText: {fileID: 21300000, guid: bad023d983e1e4c429ed14096438e5e0, type: 3}
   ReadAloudClip: {fileID: 8300000, guid: d58f015b60ca10748bfc0504d792edf7, type: 3}
   LoadFlag: 0

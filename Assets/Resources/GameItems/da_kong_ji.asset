@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: da_kong_ji
   m_EditorClassIdentifier: 
   ItemTypeRef: 0
-  DisplaySprite: {fileID: 21300000, guid: a47b025d522fdd64daa60d95621b474b, type: 3}
+  DisplaySprite: {fileID: 21300000, guid: 50bd6281ea5c000459a563b4e7b9bd29, type: 3}
   DisplayChineseText: {fileID: 21300000, guid: 4fd854e4aa87b304e96f2b06eb3e94e1, type: 3}
   ReadAloudClip: {fileID: 8300000, guid: 8f7878df271a40b4cbb0137e36ec9465, type: 3}
   LoadFlag: 0

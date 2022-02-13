@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: jian_dao
   m_EditorClassIdentifier: 
   ItemTypeRef: 0
-  DisplaySprite: {fileID: 21300000, guid: 2df775414cc1de7429d273bd3672990c, type: 3}
+  DisplaySprite: {fileID: 21300000, guid: e4ce761ac416ae84cb74f5859d48c9a9, type: 3}
   DisplayChineseText: {fileID: 21300000, guid: b4f1438dbaede834084b335e27d52fac, type: 3}
   ReadAloudClip: {fileID: 8300000, guid: d42dbb339d499af42b7b157bd846a17d, type: 3}
   LoadFlag: 0

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: la_bi
   m_EditorClassIdentifier: 
   ItemTypeRef: 0
-  DisplaySprite: {fileID: 21300000, guid: 1301a5b6d7e08e542978960e91b60ee9, type: 3}
+  DisplaySprite: {fileID: 21300000, guid: 2adfe69cc59b46b408f3d8092a6b267e, type: 3}
   DisplayChineseText: {fileID: 21300000, guid: edad724009a7af84b9ddf06b9d433c57, type: 3}
   ReadAloudClip: {fileID: 8300000, guid: 6c173697d5e627246b382e84fa1bba3c, type: 3}
   LoadFlag: 0

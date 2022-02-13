@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ding_shu_ji
   m_EditorClassIdentifier: 
   ItemTypeRef: 0
-  DisplaySprite: {fileID: 21300000, guid: cb3693865f1fa4d43ba5eb2df0f34682, type: 3}
+  DisplaySprite: {fileID: 21300000, guid: a432a9bc4e6d08c4f928c661dcca937f, type: 3}
   DisplayChineseText: {fileID: 21300000, guid: 1a47d534ce96d394dac5f2fe77c18b4a, type: 3}
   ReadAloudClip: {fileID: 8300000, guid: 231ec032d1e24c14690c1ba5cb3dc398, type: 3}
   LoadFlag: 0

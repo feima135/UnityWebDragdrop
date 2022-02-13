@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: chang_fang_xing
   m_EditorClassIdentifier: 
   ItemTypeRef: 1
-  DisplaySprite: {fileID: 21300000, guid: 3f4938638ff9a6940b3d1fd4e4b84c7e, type: 3}
+  DisplaySprite: {fileID: 21300000, guid: ff0624255ebbc0245b71a9577d70057f, type: 3}
   DisplayChineseText: {fileID: 21300000, guid: e179572bdac1fd44da496490c9739070, type: 3}
   ReadAloudClip: {fileID: 8300000, guid: 328e420bdbdeb4d46863071f5735c3b0, type: 3}
   LoadFlag: 0

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: shui_cai_bi
   m_EditorClassIdentifier: 
   ItemTypeRef: 0
-  DisplaySprite: {fileID: 21300000, guid: 1c54bfd671e0c7a41a36c41c10609d66, type: 3}
+  DisplaySprite: {fileID: 21300000, guid: f9207daf36041e34f8c4fcfd566b61c9, type: 3}
   DisplayChineseText: {fileID: 21300000, guid: e9b5ae0fcd123194691672c470c66f4c, type: 3}
   ReadAloudClip: {fileID: 8300000, guid: 8dacd73e9a8e5e049aa08321ba7ba82b, type: 3}
   LoadFlag: 0

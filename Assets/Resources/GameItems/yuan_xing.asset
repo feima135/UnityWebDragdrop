@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: yuan_xing
   m_EditorClassIdentifier: 
   ItemTypeRef: 1
-  DisplaySprite: {fileID: 21300000, guid: f11cfa93766f34f49acc512cafdfe5c8, type: 3}
+  DisplaySprite: {fileID: 21300000, guid: 814a66901e7623945894ecb5eaf34c33, type: 3}
   DisplayChineseText: {fileID: 21300000, guid: b2f00d3a8d37afd4dba4375c10c48f38, type: 3}
   ReadAloudClip: {fileID: 8300000, guid: 0840d719fc385784895b4144228bc32d, type: 3}
   LoadFlag: 0
