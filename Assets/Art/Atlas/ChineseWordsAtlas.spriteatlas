@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ChineseWordsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 256
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 20
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ba0d33545abf53c4bbdde8177bcb6ddf, type: 3}
+    - {fileID: 2800000, guid: 921dcd9ec761b2e43969c2dec45294c4, type: 3}
+    - {fileID: 2800000, guid: e4ad4fb493dc28e4b833ca772691bc80, type: 3}
+    - {fileID: 2800000, guid: e179572bdac1fd44da496490c9739070, type: 3}
+    - {fileID: 2800000, guid: b2f00d3a8d37afd4dba4375c10c48f38, type: 3}
+    - {fileID: 2800000, guid: 18099b24b7418fd409bf1244577a7544, type: 3}
+    - {fileID: 2800000, guid: edad724009a7af84b9ddf06b9d433c57, type: 3}
+    - {fileID: 2800000, guid: 76b7f93f593f7014ab225bed15af2058, type: 3}
+    - {fileID: 2800000, guid: e9b5ae0fcd123194691672c470c66f4c, type: 3}
+    - {fileID: 2800000, guid: 5ba96cb68721b8845845a1c1f171509b, type: 3}
+    - {fileID: 2800000, guid: b4f1438dbaede834084b335e27d52fac, type: 3}
+    - {fileID: 2800000, guid: 4fd854e4aa87b304e96f2b06eb3e94e1, type: 3}
+    - {fileID: 2800000, guid: 1a47d534ce96d394dac5f2fe77c18b4a, type: 3}
+    - {fileID: 2800000, guid: 80f4c366bb0390a43b2421f50b530754, type: 3}
+    totalSpriteSurfaceArea: 136258
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: edad724009a7af84b9ddf06b9d433c57, type: 3}
+  - {fileID: 21300000, guid: 18099b24b7418fd409bf1244577a7544, type: 3}
+  - {fileID: 21300000, guid: 1a47d534ce96d394dac5f2fe77c18b4a, type: 3}
+  - {fileID: 21300000, guid: ba0d33545abf53c4bbdde8177bcb6ddf, type: 3}
+  - {fileID: 21300000, guid: e4ad4fb493dc28e4b833ca772691bc80, type: 3}
+  - {fileID: 21300000, guid: 4fd854e4aa87b304e96f2b06eb3e94e1, type: 3}
+  - {fileID: 21300000, guid: 80f4c366bb0390a43b2421f50b530754, type: 3}
+  - {fileID: 21300000, guid: 5ba96cb68721b8845845a1c1f171509b, type: 3}
+  - {fileID: 21300000, guid: b2f00d3a8d37afd4dba4375c10c48f38, type: 3}
+  - {fileID: 21300000, guid: e179572bdac1fd44da496490c9739070, type: 3}
+  - {fileID: 21300000, guid: b4f1438dbaede834084b335e27d52fac, type: 3}
+  - {fileID: 21300000, guid: 921dcd9ec761b2e43969c2dec45294c4, type: 3}
+  - {fileID: 21300000, guid: e9b5ae0fcd123194691672c470c66f4c, type: 3}
+  - {fileID: 21300000, guid: 76b7f93f593f7014ab225bed15af2058, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - HuanShuXiang_Word
+  - GuangDie_Word
+  - YueDuJiaoLuo_Word
+  - BuGaoBan_Word
+  - DuoMeiTiJiaoLuo_Word
+  - YingWenBaoZhi_Word
+  - ZiZhuJieShuZhan_Word
+  - ManHua_Word
+  - ErTongZaZhi_Word
+  - ErTongQu_Word
+  - TongHuaGuShi_Word
+  - DianZiShu_Word
+  - HuiBen_Word
+  - HuaWenBaoZhi_Word
+  m_Tag: ChineseWordsAtlas
+  m_IsVariant: 0

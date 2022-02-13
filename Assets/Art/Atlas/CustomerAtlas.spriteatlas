@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CustomerAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 20
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 0d29a1862ea4ee84e8cfa923942be287, type: 3}
+    - {fileID: 2800000, guid: 68525f3483f3d3e4885c1cb48c0c903e, type: 3}
+    - {fileID: 2800000, guid: abca554a5919a6a46ba5c841e57ce995, type: 3}
+    - {fileID: 2800000, guid: 92c13440dabab504899f558d49699a2b, type: 3}
+    - {fileID: 2800000, guid: 55309e6f326d1864d9e39e633ec26279, type: 3}
+    - {fileID: 2800000, guid: 9f5303d4581ceca4b9feae7ba64115f7, type: 3}
+    - {fileID: 2800000, guid: 5ecdd36b590d180438ac39c35a821679, type: 3}
+    - {fileID: 2800000, guid: 371342b5b2a83e341b860c017e347469, type: 3}
+    - {fileID: 2800000, guid: 83344c733237f564daca3f1e6380c859, type: 3}
+    - {fileID: 2800000, guid: 95659800830892c4fb5d15dafa141035, type: 3}
+    - {fileID: 2800000, guid: 260709ec1e5baa044b5ce07368472c8a, type: 3}
+    - {fileID: 2800000, guid: 0f15c0442c48d0341aee493c9aaba7fe, type: 3}
+    - {fileID: 2800000, guid: 498d54f435a67a64aa66e2a6c15ed070, type: 3}
+    - {fileID: 2800000, guid: 60cbb14a7ed831f4a994ca0d765134c4, type: 3}
+    - {fileID: 2800000, guid: 403fe35ce4d3a464e948b5d14cbf5086, type: 3}
+    - {fileID: 2800000, guid: eb3b721b1758a52439c4d536a71939b0, type: 3}
+    - {fileID: 2800000, guid: b2a8e28202ac04d4c9068160404c56b5, type: 3}
+    - {fileID: 2800000, guid: 58816e492bee5724498013b920f14f9e, type: 3}
+    - {fileID: 2800000, guid: 44147ec82060c83418ac9f8bb75a92fe, type: 3}
+    - {fileID: 2800000, guid: 58fecfd609f5bd443bb4baf47d8ac6af, type: 3}
+    - {fileID: 2800000, guid: c34744664c4c22e498eddd08ead75d91, type: 3}
+    totalSpriteSurfaceArea: 736044
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 95659800830892c4fb5d15dafa141035, type: 3}
+  - {fileID: 21300000, guid: 92c13440dabab504899f558d49699a2b, type: 3}
+  - {fileID: 21300000, guid: b2a8e28202ac04d4c9068160404c56b5, type: 3}
+  - {fileID: 21300000, guid: 83344c733237f564daca3f1e6380c859, type: 3}
+  - {fileID: 21300000, guid: 68525f3483f3d3e4885c1cb48c0c903e, type: 3}
+  - {fileID: 21300000, guid: 0f15c0442c48d0341aee493c9aaba7fe, type: 3}
+  - {fileID: 21300000, guid: 9f5303d4581ceca4b9feae7ba64115f7, type: 3}
+  - {fileID: 21300000, guid: 498d54f435a67a64aa66e2a6c15ed070, type: 3}
+  - {fileID: 21300000, guid: 371342b5b2a83e341b860c017e347469, type: 3}
+  - {fileID: 21300000, guid: c34744664c4c22e498eddd08ead75d91, type: 3}
+  - {fileID: 21300000, guid: 0d29a1862ea4ee84e8cfa923942be287, type: 3}
+  - {fileID: 21300000, guid: 58fecfd609f5bd443bb4baf47d8ac6af, type: 3}
+  - {fileID: 21300000, guid: 44147ec82060c83418ac9f8bb75a92fe, type: 3}
+  - {fileID: 21300000, guid: 58816e492bee5724498013b920f14f9e, type: 3}
+  - {fileID: 21300000, guid: 60cbb14a7ed831f4a994ca0d765134c4, type: 3}
+  - {fileID: 21300000, guid: abca554a5919a6a46ba5c841e57ce995, type: 3}
+  - {fileID: 21300000, guid: eb3b721b1758a52439c4d536a71939b0, type: 3}
+  - {fileID: 21300000, guid: 5ecdd36b590d180438ac39c35a821679, type: 3}
+  - {fileID: 21300000, guid: 403fe35ce4d3a464e948b5d14cbf5086, type: 3}
+  - {fileID: 21300000, guid: 260709ec1e5baa044b5ce07368472c8a, type: 3}
+  - {fileID: 21300000, guid: 55309e6f326d1864d9e39e633ec26279, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CopyCat Happy
+  - BW Happy 0
+  - Mother and child PlusHearts 0
+  - Clown PlusHearts 0
+  - Anti Ego MinusHearts
+  - CopyCat PlusHearts 0
+  - BW PlusHearts 0
+  - Student MinusHeart
+  - Clown Happy
+  - Student Happy 0
+  - Anti Ego Happy 0
+  - Old Woman PlusHearts 0
+  - Old Woman MinusHearts
+  - Old Woman happy
+  - Student PlusHeart 0
+  - Anti Ego PlusHearts 0
+  - Mother and child Happy
+  - Clown Angry
+  - Mother and child Angry 0
+  - CopyCat MinusHearts
+  - BW MinusHearts
+  m_Tag: CustomerAtlas
+  m_IsVariant: 0
