@@ -15,5 +15,5 @@ MonoBehaviour:
   ItemTypeRef: 1
   DisplaySprite: {fileID: 21300000, guid: 814a66901e7623945894ecb5eaf34c33, type: 3}
   DisplayChineseText: {fileID: 21300000, guid: 0939bc6abaaf78b42b620e2112cf7665, type: 3}
-  ReadAloudClip: {fileID: 8300000, guid: 0840d719fc385784895b4144228bc32d, type: 3}
+  ReadAloudClip: {fileID: 8300000, guid: 878152cf5ef66294ab99e3da6b72d956, type: 3}
   LoadFlag: 0
