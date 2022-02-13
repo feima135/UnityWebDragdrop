@@ -164,6 +164,10 @@ public class GameController : MonoBehaviour
     public GameObject BorrowHeader;
     public GameObject GoHeader;
 
+    public Text ScoreText;
+
+    private int GlobalScore = 0;
+
     /// <summary>
     /// when drag is detected store the ID
     /// </summary>
@@ -197,6 +201,9 @@ public class GameController : MonoBehaviour
         LevelProgressBarRef.InitProgressBar(LevelInfoTable);
 
         roundsLeft = 0;
+        GlobalScore = 0;
+        ScoreText.text = GlobalScore.ToString();
+
         GamePaused = false;
     }
 
@@ -264,7 +271,7 @@ public class GameController : MonoBehaviour
             }
             else
             {
-                gameEnded = true;
+                //gameEnded = true;
             }
         }
 
@@ -406,6 +413,9 @@ public class GameController : MonoBehaviour
 
         if(foodItemCrossCheckTable.Contains(dragIcon.GameItemOwner))
         {
+            ++GlobalScore;
+            ScoreText.text = GlobalScore.ToString();
+
             DropZoneRef.OnDropAccept();
 
             GetComponent<AudioSource>().PlayOneShot(CorrectAnsAudioClip);
